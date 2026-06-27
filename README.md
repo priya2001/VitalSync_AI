@@ -1,8 +1,14 @@
 # VitalSync AI
 
-VitalSync AI is a full-stack health and productivity dashboard that combines user authentication, personalized health metrics, and Gemini AI-powered insights. The platform helps users track wellness trends, monitor daily progress, and receive intelligent recommendations.
+![React](https://img.shields.io/badge/React-19.2.7-61DAFB?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas%20%2F%20Local-47A248?logo=mongodb)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI-8A2BE2)
 
-## Features
+VitalSync AI is a full-stack health and productivity dashboard that combines secure authentication, personalized health metrics, and Gemini AI-powered insights. The platform helps users track wellness trends, monitor daily progress, and receive intelligent recommendations.
+
+## 🚀 Features
 
 - Secure user registration and login with JWT authentication
 - Password hashing using bcrypt
@@ -19,7 +25,7 @@ VitalSync AI is a full-stack health and productivity dashboard that combines use
 - Gemini AI-powered health recommendations using Google Gemini API
 - Responsive and modern UI built with React and Tailwind CSS
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 - React.js
@@ -37,7 +43,7 @@ VitalSync AI is a full-stack health and productivity dashboard that combines use
 - bcryptjs
 - dotenv
 
-## Project Structure
+## 📁 Project Structure
 
 ```bash
 VitalSync_AI/
@@ -60,7 +66,7 @@ VitalSync_AI/
 └── README.md
 ```
 
-## Prerequisites
+## ✅ Prerequisites
 
 Make sure you have the following installed:
 
@@ -68,7 +74,7 @@ Make sure you have the following installed:
 - npm
 - MongoDB running locally or remotely
 
-## Installation
+## 🔧 Installation
 
 ### 1. Clone the repository
 
@@ -91,7 +97,7 @@ cd ../frontend
 npm install
 ```
 
-## Environment Variables
+## 🔐 Environment Variables
 
 Create a `.env` file inside the backend folder with the following variables:
 
@@ -108,7 +114,7 @@ Create a `.env` file inside the frontend folder if needed:
 VITE_API_URL=http://localhost:5001/api
 ```
 
-## Running the Project
+## ▶️ Running the Project
 
 ### Start the backend
 
@@ -129,7 +135,7 @@ Then open:
 - Frontend: http://localhost:5173
 - Backend: http://localhost:5001
 
-## Usage
+## 👤 Usage
 
 1. Register a new account
 2. Log in securely
@@ -137,7 +143,7 @@ Then open:
 4. Monitor health metrics and weekly trends
 5. Receive AI-generated wellness recommendations
 
-## How It Works
+## 🧠 How It Works
 
 1. Users first register or log in through the authentication system.
 2. The backend verifies the credentials and issues a JWT token.
@@ -146,7 +152,20 @@ Then open:
 5. The Gemini AI analyzes the user’s health data and generates personalized suggestions.
 6. All user data is stored securely in MongoDB.
 
-## Future Enhancements
+## 📸 Screenshots
+
+Add screenshots here once available:
+
+- Login Page
+- Register Page
+- Dashboard View
+- AI Insights Panel
+
+## 🌐 Demo
+
+Live demo link: coming soon
+
+## 🚀 Future Enhancements
 
 - BMI Calculator
 - Sleep Tracking
@@ -155,6 +174,6 @@ Then open:
 - Advanced Health Analytics
 - Mood and Stress Tracking
 
-## License
+## 📄 License
 
 This project is open-source and available under the MIT License.
