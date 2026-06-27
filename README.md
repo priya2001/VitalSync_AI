@@ -8,7 +8,7 @@
 
 VitalSync AI is a full-stack health and productivity dashboard that combines secure authentication, personalized health metrics, and Gemini AI-powered insights. The platform helps users track wellness trends, monitor daily progress, and receive intelligent recommendations.
 
-## 🚀 Features
+##  Features
 
 - Secure user registration and login with JWT authentication
 - Password hashing using bcrypt
@@ -25,7 +25,7 @@ VitalSync AI is a full-stack health and productivity dashboard that combines sec
 - Gemini AI-powered health recommendations using Google Gemini API
 - Responsive and modern UI built with React and Tailwind CSS
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -43,7 +43,7 @@ VitalSync AI is a full-stack health and productivity dashboard that combines sec
 - bcryptjs
 - dotenv
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 VitalSync_AI/
@@ -66,7 +66,7 @@ VitalSync_AI/
 └── README.md
 ```
 
-## ✅ Prerequisites
+## Prerequisites
 
 Make sure you have the following installed:
 
@@ -74,7 +74,7 @@ Make sure you have the following installed:
 - npm
 - MongoDB running locally or remotely
 
-## 🔧 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -97,7 +97,7 @@ cd ../frontend
 npm install
 ```
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the backend folder with the following variables:
 
@@ -114,7 +114,7 @@ Create a `.env` file inside the frontend folder if needed:
 VITE_API_URL=http://localhost:5001/api
 ```
 
-## ▶️ Running the Project
+## Running the Project
 
 ### Start the backend
 
@@ -135,7 +135,7 @@ Then open:
 - Frontend: http://localhost:5173
 - Backend: http://localhost:5001
 
-## 👤 Usage
+##  Usage
 
 1. Register a new account
 2. Log in securely
@@ -143,7 +143,7 @@ Then open:
 4. Monitor health metrics and weekly trends
 5. Receive AI-generated wellness recommendations
 
-## 🧠 How It Works
+## How It Works
 
 1. Users first register or log in through the authentication system.
 2. The backend verifies the credentials and issues a JWT token.
@@ -152,7 +152,7 @@ Then open:
 5. The Gemini AI analyzes the user’s health data and generates personalized suggestions.
 6. All user data is stored securely in MongoDB.
 
-## 📸 Screenshots
+## Screenshots
 
 Add screenshots here once available:
 
@@ -161,11 +161,11 @@ Add screenshots here once available:
 - Dashboard View
 - AI Insights Panel
 
-## 🌐 Demo
+## Demo
 
 Live demo link: coming soon
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - BMI Calculator
 - Sleep Tracking
@@ -174,6 +174,6 @@ Live demo link: coming soon
 - Advanced Health Analytics
 - Mood and Stress Tracking
 
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
