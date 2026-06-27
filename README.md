@@ -25,6 +25,24 @@ VitalSync AI is a full-stack health and productivity dashboard that combines sec
 - Gemini AI-powered health recommendations using Google Gemini API
 - Responsive and modern UI built with React and Tailwind CSS
 
+## Screenshots
+
+### Login Page
+![Login Page](frontend/src/assets/login.png)
+
+### Register Page
+![Register Page](frontend/src/assets/register.png)
+
+### Dashboard View
+![Dashboard View](frontend/src/assets/dashboard.png)
+
+### AI Insights Panel
+![AI Insights Panel](frontend/src/assets/AI%20insights%20panel.png)
+
+## Demo
+
+Live demo link: coming soon
+
 ## Tech Stack
 
 ### Frontend
@@ -151,24 +169,6 @@ Then open:
 4. Once logged in, the user sees a personal dashboard with health metrics and charts.
 5. The Gemini AI analyzes the user’s health data and generates personalized suggestions.
 6. All user data is stored securely in MongoDB.
-
-## Screenshots
-
-### Login Page
-![Login Page](frontend/src/assets/login.png)
-
-### Register Page
-![Register Page](frontend/src/assets/register.png)
-
-### Dashboard View
-![Dashboard View](frontend/src/assets/dashboard.png)
-
-### AI Insights Panel
-![AI Insights Panel](frontend/src/assets/AI%20insights%20panel.png)
-
-## Demo
-
-Live demo link: coming soon
 
 ## Future Enhancements
 
