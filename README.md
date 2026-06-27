@@ -154,12 +154,17 @@ Then open:
 
 ## Screenshots
 
-Add screenshots here once available:
+### Login Page
+![Login Page](frontend/src/assets/login.png)
 
-- Login Page
-- Register Page
-- Dashboard View
-- AI Insights Panel
+### Register Page
+![Register Page](frontend/src/assets/register.png)
+
+### Dashboard View
+![Dashboard View](frontend/src/assets/dashboard.png)
+
+### AI Insights Panel
+![AI Insights Panel](frontend/src/assets/AI%20insights%20panel.png)
 
 ## Demo
 
